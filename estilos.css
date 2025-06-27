@@ -9,7 +9,7 @@
 }
 
 .dos{
-  background: #E2E2E2;
+  background: #FFF0AC;
   height: 100px;
     
   display: flex;
@@ -18,3 +18,12 @@
     
     
 }
+
+.tres{
+  background:  #D1EAFF;
+  height: 400px;
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    }
